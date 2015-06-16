@@ -1,0 +1,16 @@
+{
+  "name": "incubalytics",
+  "version": "0.0.1",
+  "repository": "https://github.com/incubio/incubalytics",
+  "dependencies": {
+    "cookie-parser": "*",
+    "errorhandler": "*",
+    "express": "4.x",
+    "moment": "*",
+    "serve-favicon": "*",
+    "uuid": "*",
+    "jade" : "*",
+    "couchbase" : "*",
+    "uuid" : "*"
+  }
+}
